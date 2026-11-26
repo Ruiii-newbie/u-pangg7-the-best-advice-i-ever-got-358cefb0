@@ -12,7 +12,7 @@ One sentence, no longer than 200 characters, about the best advice ever received
 python3 main.py
 ```
 
-It writes one sentence (124 characters) to `/output/entry.txt`: a
+It writes one sentence (125 characters) to `/output/entry.txt`: a
 grandfather's warning — never borrow money to look rich, because the
 interest always arrives long before the applause does.
 
